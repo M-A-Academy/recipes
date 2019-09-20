@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+            table, th, td {border: 4px solid blue; border-collapse:collapse;text-align:center;}
+            body {background-color:rgb(220, 232, 153);}
+            h1, h2 {text-align: center;}
+        </style>
+    </head>
+    <body>
+       
+        <h1>Chin-Sell's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#venison">Recipe #1: Venison Mole</a></li>
+             <li><a href="#morisqueta">Recipe #2: Morisqueta</a></li>
+        </ol>
+        
+         <!-- I've made this recipe many times and it's always great. Sometimes I use adobo or pipian instead of mole -->
+   
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/White-tailed_deer.jpg" alt="deer" width="200">
+        <h2 id="venison">Recipe #1: EZ Venison Mole</h2>
+            <p>This isn't for real homemade mole.  I have done that once when living with a family in Mexico City for 8 weeks one summer, and it took <em>all</em> day!  I work hard enough to hunt the deer and then gut it out, string it up, skin it, butcher it, and pack it out. That's why I don't feel cheesy for just using jarred mole.  Besides, it all tastes great every time.</p>
+        
+        <ul>
+            <li>Time: 2 hours (<em>not counting hunting the deer and processing the carcass</em>)</li>
+            <li>Serves: 10</li>
+        </ul>
+        
+        <table style="width:100%">
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>venison</td>
+                    <td>3 pounds</td>
+                </tr>
+                <tr>
+                    <td>mole (Rogelio Bueno or Dona Maria)</td>
+                    <td>1 jar</td>
+                </tr>
+                <tr>
+                    <td>chicken broth</td>
+                    <td>32 fl oz</td>
+                </tr>
+                <tr>
+                    <td>onions</td>
+                    <td>big bag from Smart & Final</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Prep meat:
+            <ul>
+                <li>wash off excess blood, hair, dirt</li>
+                <li>trim excess silver skin, fat, tendons</li>
+                <li>pound with hammer</li>
+                <li>sprinkle with meat tenderizer and spices</li>
+                <li>cut into 1 inch chunks</li>
+                <li>fry up in small amount of oil and remove from heat</li>
+            </ul>
+             <strong>Step 2:</strong> Sautee onions:
+            <ul>
+                <li>heat vegetable oil (canola)</li>
+                <li>add pre-diced onions</li>
+                <li>slowly heat to a simmer</li>
+                <li>add salt and garlic powder and sugar</li>
+                <li>remove from heat</li>
+            </ul>
+            <strong>Step 3:</strong> Make mole sauce:
+            <ul>
+                <li>heat chicken stock</li>
+                <li>add mole paste</li>
+                <li>slowly heat to a simmer</li>
+                <li>stir <em>constantly</em></li>
+                <li>break up chunks of mole paste</li>
+            </ul>
+             <strong>Step 4:</strong> Combine all ingredients:
+            <ul>
+                <li>dump it all in pot</li>
+                <li>slowly heat to a simmer</li>
+                <li>stir <em>constantly</em></li>
+                <li>serve with refried beans, eggs and rice</li>
+            </ul>
+    </p>
+    
+    <!-- I got this recipe straight off the internet, but I've never made it so I can't guarantee if it's any good! -->
+    
+    <img src="https://d1nsq2txwd94q7.cloudfront.net/public/files/production/recipes/images/2109/thumb/r_2109_1550834204.jpg" alt="morisqueta" width ="200">
+    
+<h2 id="morisqueta">Recipe #2: Morisqueta</h2>
+    <p>Morisqueta is a classic Mexican dish popularized in the state of Michoacán. In its simplest form Morisqueta is a combination of white rice and cooked pinto beans topped with a spicy tomato salsa, Mexican crema, and crumbled queso fresco. Other versions of morisqueta include tender pieces of pork or beef added to the salsa, and garnishes like shredded cabbage and crema. Traditionally morisqueta is served with simple fried quesadillas, but you can also serve it with warm corn tortillas or totopos (tortilla chips) for a delicious meatless meal any day of the week.</p>
+        
+        <ul>
+            <li>Time: 45 minutes </li>
+            <li>Serves: 6</li>
+        </ul>
+        
+        <table style="width:100%">
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>ROMA TOMATOES</td>
+                    <td>4</td>
+                </tr>
+                <tr>
+                    <td>DRIED ANCHO CHILES STEMS AND SEEDS REMOVED</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>SERRANO CHILES STEMS AND SEEDS REMOVED</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>CLOVE OF GARLIC</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>WATER</td>
+                    <td>3 cups</td>
+                </tr>
+                 <td>CHICKEN BROTH</td>
+                    <td>2 cups</td>
+                <tr>
+                    <td>MEDIUM ONION</td>
+                    <td>1/2</td>
+                </tr>
+                <tr>
+                    <td>BUTTER</td>
+                    <td>2 tbsp</td>
+                </tr>
+                <tr>
+                    <td>LONG-GRAIN RICE </td>
+                    <td>1 cup</td>
+                </tr>
+                <tr>
+                    <td>PINTO BEANS</td>
+                    <td>3 cups</td>
+                </tr>
+                <tr>
+                    <td>QUESO FRESCO OR COTIJA CHEESE CRUMBLED </td>
+                    <td>1 cup</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1: Sauce</strong> <br>
+            For the sauce bring the tomatoes, dried chiles, and serrano chiles to a boil in a medium saucepan over medium-high heat. Cover and reduce heat to low. Let simmer for 8 to 10 minutes until tomatoes are completely cooked. Remove from heat; let cool slightly. Puree the tomatoes, dried chiles, serrano chiles and the water they were cooked in with the garlic in a blender until smooth; season with salt to taste.<br><br>
+            
+            
+             <strong>Step 2: Rice</strong> <br>
+             For the rice, puree the chicken broth, onion, and garlic in a blender until smooth. Melt the butter in a medium skillet over medium-high heat. Saute the rice for 3 to 4 minutes until light golden brown. Carefully pour in the chicken broth mixture, stirring gently to combine. Season lightly with salt. Do not stir after this point. Once rice comes to a boil, cover and reduce heat to low. Simmer over low heat for 12 to 15 minutes or until no liquid remains and the rice has cooked completely.<br><br>
+             <strong>Step 3: Beans</strong> <br>
+             While the rice is simmering, heat the pinto beans in a medium saucepan.<br><br>
+             
+             <strong>Step 4: Serving</strong> <br>
+             To serve the morisqueta, spoon a generous serving of rice. Top with ½ cup cooked pinto beans. Ladle 1/3 to 1/2 cup of the salsa over the rice and beans. Garnish with 2 to 3 tablespoons of crumbled queso fresco. Serve with warm tortillas or totopos (tortilla chips).
+        </p>
+        
+    <p><em>Source: <a target="_blank" href="https://hispanickitchen.com/recipes/morisqueta-mexican-rice-beans/">https://hispanickitchen.com</a></em></p>
+    
+    </body>
+</html>
